@@ -1,5 +1,4 @@
 import React from "react";
-import './Blockchain.css'
 
 import java from './../../../../../assets/images/version3Images/Level-3/ApiTesting/Blockchain/java.png'
 import js from './../../../../../assets/images/version3Images/Level-3/ApiTesting/Blockchain/js.jpg'
