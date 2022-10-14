@@ -1,0 +1,28 @@
+.ReAcardShadowReq  {
+    box-shadow: -9px 9px 8px #6f6f6f;
+    width:45% ;
+}
+.ReAcardShadowReq:hover  {
+    box-shadow: -9px 0px 8px #F28C28  , 0px 12px 8px #0f50c0;
+    width:45% ;
+}
+
+.reqAnalysisImg{
+    height: 648px;
+    width: 792px;
+}
+
+.ReAcontectDiv{
+    width: 60%;
+}
+.ReAtextContent{
+    padding: 11px;
+    margin: 20px;
+    font-size: 31px;
+}
+
+/* .fullScreen{
+    @media(min-width:1920) {
+        justify-content:flex-start;
+    }
+} */

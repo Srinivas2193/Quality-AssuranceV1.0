@@ -1,0 +1,59 @@
+.TDcardShadowReq  {
+    box-shadow: -9px 9px 8px #6f6f6f;
+    border: 1px solid;
+    width:45% ;
+}
+.TDcardShadowReq:hover  {
+    box-shadow: -9px 0px 8px #F28C28  , 0px 12px 8px #0f50c0;
+    width:45% ;
+}
+
+.reqAnalysisImg{
+    height: 648px;
+    width: 792px;
+}
+
+.TDcontectDiv{
+    width: 60%;
+    /* height: 700px;
+    overflow-y: scroll;
+    border: 2px solid;
+    box-shadow: -9px 0px 8px #716f6e;
+    margin-right: 10px; */
+}
+/* .contectDiv::-webkit-scrollbar {
+
+    width: 5px;
+  
+    padding: 100px;
+  
+  }
+  
+  .contectDiv::-webkit-scrollbar-thumb {
+  
+    background: black;
+  
+    border-radius: 10px;
+  
+  }
+
+  .contectDiv::-webkit-scrollbar-track {
+
+      background-color: var(--cgy1);
+    
+      border-radius: 10px;
+    
+     } */
+
+
+.TestDesigntextContent{
+    padding: 11px;
+    margin: 20px;
+    font-size: 20px;
+}
+
+/* .fullScreen{
+    @media(min-width:1920) {
+        justify-content:flex-start;
+    }
+} */

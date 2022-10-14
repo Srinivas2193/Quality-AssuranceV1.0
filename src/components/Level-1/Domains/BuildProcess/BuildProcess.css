@@ -1,0 +1,44 @@
+.BDcardShadowReq  {
+    width:45% ;
+    border: 1px solid;
+}
+.BDcardShadowReq:hover  {
+    box-shadow: -9px 0px 8px #F28C28  , 0px 12px 8px #0f50c0;
+    width:45% ;
+}
+
+.BDImg{
+    height: 648px;
+    width: 792px;
+}
+
+.BDcontectDiv{
+    width: 60%;
+    height: 649px;
+    overflow-y: scroll;
+    border: 2px solid;
+    box-shadow: -9px 8px 8px #716f6e;
+    margin-right: 10px;
+    margin-top: 34px;
+    scrollbar-width: thin;
+}
+
+  
+
+.BDtextContent{
+    padding: 11px;
+    margin: 20px;
+    font-size: 31px;
+}
+.BDtextContent2{
+    padding: 11px;
+    margin: 20px;
+    font-size: 31px;
+    text-decoration: underline;
+}
+
+/* .fullScreen{
+    @media(min-width:1920) {
+        justify-content:flex-start;
+    }
+} */

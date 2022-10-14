@@ -1,0 +1,38 @@
+.cardDiv{
+    background-color: rgba(231, 226, 226, 0.73);
+    width: 23%;
+    height: 17rem;
+    padding: 2px;
+    cursor: pointer;
+}
+.cardDiv:hover{
+    height: 17rem;
+    background-color: #eb7524;
+    color: #fff;
+}
+.cardDiv > img{
+    width: 100%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;        
+}
+.contactUsButton:hover{
+    border: 3px solid #eb7524;
+    /* background-color: black; */
+    background-color: #eb752421;
+    color:  #fff;
+}
+.contactUsButton{
+    font-size: 1.25rem;
+    width: 120px;
+    height: 38px;
+    background-color: #eb7524;
+    color: #fff;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* font-weight: bold; */
+}
+.cardDiv > p{
+    padding: 0px 6px;
+}
