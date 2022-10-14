@@ -1,5 +1,4 @@
 import React from "react";
-import './Blockchain.css'
 
 import mindmap1 from './../../../../../assets/images/version3Images/Level-3/Mindmaps/Blockchain/Mindmap1.png'
 import mindmap2 from './../../../../../assets/images/version3Images/Level-3/Mindmaps/Blockchain/Mindmap2.png'
